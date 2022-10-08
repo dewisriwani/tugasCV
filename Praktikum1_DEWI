@@ -1,0 +1,94 @@
+<html>
+    <head>
+    <title>CURRICULUM VITAE</title>
+
+    </head>
+    <body>
+    <h1 align=center>CURRICULUM VITAE</h1>
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b>PERSONAL INFORMATION</b>
+        <hr>
+        <table style="width:50%">
+            <!--FOTO-->
+            <img src="FOTODEWI.jpg" align="right" width="104" height="142">
+        <tr>
+        <th></th>
+        <th></th>
+        </tr>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>: Dewi Sriwani </td>
+        </tr>
+        <tr>
+            <td>Tempat Tanggal Lahir</td>
+            <td>: Panjang Baru,21 Januari 2003</td>  
+        </tr>
+            <td>Alamat</td>
+            <td>:Depok,cimanggis</td>
+        <tr>
+            <td>Status</td>
+            <td>: Mahasiswa</td>
+        </tr>
+            <tr>
+            <td>NO HP</td>
+            <td>: 081369615046</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>: dewisriwani554@gmail.com</td>
+        </tr>
+        </table>
+    <!--RIWAYAT PENDIDIKAN FORMAL-->  
+            <hr>
+            <b>PENDIDIKAN FORMAL</b>
+            <hr>
+                <table style="width:80%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            <tr>
+                <td>2019-2022</td>
+                <td> SMKS KAMPUS</td>
+            </tr>
+            <tr>
+                <td>2016-2019</td>
+                <td>MTS AEK KORSIK</td>  
+            </tr>
+                <td>2010-2016</td>
+                <td>SDN 014656 AEK KORSIK</td>
+            </table>
+    <!--RIWAYAT PENDIDIKAN INFORMAL-->      
+                    <hr>
+                    <b>PENDIDIKAN INFORMAL</b>
+                    <hr>
+                        <table style="width:110%">
+                    <tr>
+                    <th></th>
+                    <th></th>
+                    </tr>
+                    <tr>
+                        <td>2014-2015</td>
+                        <td>Sekolah Tinggi Teknologi Terpadu Nurul Fikri - Teknik Informatika </td>
+                    </tr>
+                    
+                    </table>
+    <!-- RIWAYAT ORGANISASI-->
+                            <hr>
+                            <b>ORGANISASI</b><hr>
+                            <table style="width:180%">
+                        <tr>
+                        <th></th>
+                        <th></th>
+                        </tr>
+                        <tr>
+                            <td>2020</td>
+                            <td>Anggota Osis</td>
+                        </tr>
+                       
+                        </table>
+   
+    
+    </body>
+</html>
